@@ -1,6 +1,5 @@
 # Babynama - Frontend Developer Intern Assignment
 
-Babynama Intern Assignment
 🔗 Live URL
 https://babynama.vercel.app
 
