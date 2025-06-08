@@ -29,7 +29,7 @@ It was a good learning experience in resolving version control issues.
 
 ## 📸 Screenshot
 
-![Webinar Page Screenshot](./screenshot.png)
+![Webinar Page Screenshot](./Screenshot.png)
 
 > A simple, informative, and responsive webinar listing page with speaker, date, and a “View Details” button.
 
